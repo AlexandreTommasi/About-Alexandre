@@ -10,7 +10,7 @@ About Me
 🚀 Always seeking new challenges to sharpen my skills and learn cutting-edge technology
 Feel free to explore my repositories!
 
-===========================================================================================================================================================================================
+========================================================================================================================================================================================
 
 Olá! 👋 Sou Alexandre, um estudante de Engenharia de Software apaixonado e curioso do INATEL (Instituto Nacional de Telecomunicações). Atualmente, sou bolsista no Laboratório de CS&I, trabalhando em projetos empolgantes envolvendo Inteligência Artificial (IA) e Visão Computacional. Minhas principais ferramentas incluem Python, C, C++, Java e JavaScript, onde mergulho nos reinos de aprendizado de máquina e ciência de dados.
 
